@@ -4,8 +4,8 @@ import { BrowserAnimationsModule } from '@angular/platform-browser/animations';
 import { LocationStrategy, HashLocationStrategy } from '@angular/common';
 
 import { AppComponent } from './app.component';
-import { BsDropdownModule } from 'ng2-bootstrap/dropdown';
-import { TabsModule } from 'ng2-bootstrap/tabs';
+import { BsDropdownModule } from 'ngx-bootstrap/dropdown';
+import { TabsModule } from 'ngx-bootstrap/tabs';
 import { NAV_DROPDOWN_DIRECTIVES } from './shared/nav-dropdown.directive';
 
 import { ChartsModule } from 'ng2-charts/ng2-charts';

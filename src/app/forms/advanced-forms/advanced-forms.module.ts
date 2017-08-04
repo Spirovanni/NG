@@ -6,15 +6,15 @@ import { FormsModule } from '@angular/forms';
 import { TextMaskModule } from 'angular2-text-mask';
 
 // Timepicker
-import { TimepickerModule } from 'ng2-bootstrap/timepicker';
+import { TimepickerModule } from 'ngx-bootstrap/timepicker';
 
 // Datepicker
-import { DatepickerModule } from 'ng2-bootstrap/datepicker';
+import { DatepickerModule } from 'ngx-bootstrap/datepicker';
 
 // Ng2-select
 import { SelectModule } from 'ng2-select';
 
-//Routing
+// Routing
 import { AdvancedFormsRoutingModule } from './advanced-forms-routing.module';
 
 import { AdvancedFormsComponent } from './advanced-forms.component';
